@@ -11,7 +11,7 @@ Um aplicativo simples de Lista de Tarefas com interface gráfica feito em Python
 
 ## 🖼️ Interface
 
-![Preview da interface - Lista de Tarefas](screenshot.png) <!-- opcional se você quiser adicionar uma imagem -->
+![Preview da interface - Lista de Tarefas](listatarefa.py) <!-- opcional se você quiser adicionar uma imagem -->
 
 ## 🚀 Requisitos
 
